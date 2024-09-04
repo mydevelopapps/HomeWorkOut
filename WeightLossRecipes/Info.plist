@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GADApplicationIdentifier</key>
+	<string>ca-app-pub-1589571400725626~4499113280</string>
+	<key>GADIsAdManagerApp</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsForMedia</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<false/>
+		<key>NSExceptionAllowsInsecureHTTPLoads</key>
+		<true/>
+	</dict>
+	<key>App Uses Non-Exempt Encription</key>
+	<false/>
+	<key>UIUserInterfaceStyle</key>
+	<string>Light</string>
+</dict>
+</plist>

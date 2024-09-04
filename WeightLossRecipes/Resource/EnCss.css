@@ -1,0 +1,81 @@
+
+
+@font-face
+{
+    font-family: 'Calibri';
+    src: local('Calibri'),url('Calibri.ttf') format('opentype');
+}
+
+@font-face
+{
+    font-family: 'Calibri';
+    src: local('Calibri'),url('Calibri.ttf') format('opentype');
+}
+
+h1
+{
+    font-family: 'Calibri';
+    font-size: 40px;
+    font-weight: normal;
+    color:black;
+}
+
+h2
+{
+    font-family: 'Calibri';
+    font-size: 40px;
+    font-weight: normal;
+    color:black;
+}
+
+h3
+{
+    font-family: 'Calibri';
+    font-size: 40px;
+    font-weight: normal;
+    color:black;
+}
+
+h4
+{
+    font-family: 'Calibri';
+    font-size: 40px;
+    font-weight: normal;
+    color:black;
+}
+
+p
+{
+    font-family: 'Calibri';
+    font-size: 40px;
+    font-weight: normal;
+    color:black;
+}
+
+ul
+{
+    font-family: 'Calibri';
+    font-size: 40px;
+    font-weight: normal;
+    color:black;
+}
+
+li
+{
+    font-family: 'Calibri';
+    font-size: 40px;
+    font-weight: normal;
+    color:black;
+}
+
+a {
+    text-decoration: underline;
+    color: black;
+}
+
+img{
+width: 100%;
+margin: 0 auto;
+}
+
+
